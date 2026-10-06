@@ -182,7 +182,7 @@ El Morse **no** codifica letras directamente. Usa solo los dígitos Morse `0` (`
 .----  →  1
 ```
 
-208 bits ÷ 8 = **26 bytes** = 26 caracteres ASCII = `flag{binary_audio_secrets}` (5 + 6 + 1 + 5 + 1 + 7 + 1 = 26 ✔).
+208 bits ÷ 8 = **26 bytes** = 26 caracteres ASCII = `flag{binary_audio_secrets}` (5 + 6 + 1 + 5 + 1 + 7 + 1 = 26).
 
 ```python
 bits = ''.join('0' if g == '-----' else '1' for g in grupos)
@@ -284,7 +284,7 @@ cat flag.txt                            # Q1RGe3N0ZWcwXzFzX2NvMGx9
 cat flag.txt | base64 -d                # CTF{steg0_1s_co0l}
 ```
 
-**Pista de que es Base64:** `Q1RG` es `CTF` en Base64. Formato esperado `CTF{xxxxN_Nx_xxNx}` → `steg0` / `1s` / `co0l` ✔.
+**Pista de que es Base64:** `Q1RG` es `CTF` en Base64. Formato esperado `CTF{xxxxN_Nx_xxNx}` → `steg0` / `1s` / `co0l`.
 
 ### 4.6 Remediación / contexto defensivo
 
@@ -577,7 +577,7 @@ $dec = $aes.CreateDecryptor().TransformFinalBlock($enc, 0, $enc.Length)
 # flag{b4CKup_SaV3D_7h3_$YsTeM}
 ```
 
-**Verificación de coherencia:** la flag mide 29 bytes; con PKCS7 se rellena a 32 (3 bytes `0x03`) = 2 bloques AES de 16 bytes = los **32 bytes** del archivo cifrado ✔.
+**Verificación de coherencia:** la flag mide 29 bytes; con PKCS7 se rellena a 32 (3 bytes `0x03`) = 2 bloques AES de 16 bytes = los **32 bytes** del archivo cifrado.
 
 ### 6.9 Debilidades criptográficas del ransomware (por qué se pudo recuperar)
 
