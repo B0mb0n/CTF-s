@@ -62,7 +62,7 @@ Se resolvieron **4 retos** con **11 respuestas**:
 
 ```mermaid
 flowchart LR
-    L1[Level 1<br/>Cryptic Canvas]
+    L1[Ejercicios]
     L1 --> R1[Reto 1<br/>The Hidden Voice<br/>AUDIO]
     L1 --> R2[Reto 2<br/>Stego Cat<br/>IMAGEN]
     L1 --> R3[Reto 3<br/>Camouflage<br/>CODIFICACIÓN]
