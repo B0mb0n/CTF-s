@@ -53,8 +53,6 @@ Se resolvieron **4 retos** con **11 respuestas**:
 | 10 | RansomBreak | Clave calculada | `037e39a5c57380ea9357167684ca4dd7` |
 | 11 | RansomBreak | Flag final | `flag{b4CKup_SaV3D_7h3_$YsTeM}` |
 
-> ⚠️ **Nota sobre spoilers:** si publicas este README en GitHub, considera redactar las flags (o dejar el repo privado). Los labs de EC-Council suelen tener políticas de no divulgación de soluciones.
-
 ---
 
 ## 2. Mapa general del nivel
