@@ -754,9 +754,9 @@ Get-ChildItem "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp" -Fo
 
 **Herramientas**
 - Steghide: <https://steghide.sourceforge.net/>
-- CyberChef *(disponible, no usada en este lab)*: <https://gchq.github.io/CyberChef/>
+- CyberChef *(No usada en este lab)*: <https://gchq.github.io/CyberChef/>
 - dnSpyEx: <https://github.com/dnSpyEx/dnSpy>
-- Detect It Easy *(disponible, no usada en este lab)*: <https://github.com/horsicq/Detect-It-Easy>
+- Detect It Easy *(No usada en este lab)*: <https://github.com/horsicq/Detect-It-Easy>
 - de4dot: <https://github.com/de4dot/de4dot>
-- Ghidra *(disponible, no usada en este lab)*: <https://ghidra-sre.org/>
+- Ghidra *(No usada en este lab)*: <https://ghidra-sre.org/>
 - multimon-ng *(alternativa mencionada, no usada)*: <https://github.com/EliasOenal/multimon-ng>
