@@ -1,6 +1,7 @@
 Writeup
 
 > By: B0mb0ncitoo
+
 > Laboratorio de esteganografía, codificación y análisis de malware .NET.
 > Entorno: Kali Linux (navegador) + Windows Victim VM.
 > Fecha: 2026-10-05
