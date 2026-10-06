@@ -754,7 +754,7 @@ Get-ChildItem "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp" -Fo
 
 **Herramientas**
 - Steghide: <https://steghide.sourceforge.net/>
-- CyberChef: <https://gchq.github.io/CyberChef/>
+- CyberChef *(disponible, no usada en este lab)*: <https://gchq.github.io/CyberChef/>
 - dnSpyEx: <https://github.com/dnSpyEx/dnSpy>
 - Detect It Easy *(disponible, no usada en este lab)*: <https://github.com/horsicq/Detect-It-Easy>
 - de4dot: <https://github.com/de4dot/de4dot>
